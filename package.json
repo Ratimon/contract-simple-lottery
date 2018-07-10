@@ -1,5 +1,5 @@
 {
-  "name": "deployment-inbox",
+  "name": "contract-simple-lottery",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ratimon/deployment-inbox.git"
+    "url": "git+https://github.com/Ratimon/contract-simple-lottery.git"
+    
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ratimon/deployment-inbox/issues"
+    "url": "https://github.com/Ratimon/contract-simple-lottery/issues"
   },
-  "homepage": "https://github.com/Ratimon/deployment-inbox#readme",
+  "homepage": "https://github.com/Ratimon/contract-simple-lottery#readme",
   "dependencies": {
     "fs-promise": "^2.0.3",
     "ganache-cli": "^6.1.6",
