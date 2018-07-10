@@ -1,0 +1,27 @@
+{
+  "name": "deployment-inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ratimon/deployment-inbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ratimon/deployment-inbox/issues"
+  },
+  "homepage": "https://github.com/Ratimon/deployment-inbox#readme",
+  "dependencies": {
+    "fs-promise": "^2.0.3",
+    "ganache-cli": "^6.1.6",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26"
+  }
+}
